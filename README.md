@@ -6,8 +6,9 @@ Android Fundamentals - Code Challenges (Week 7) - Google Atelierul Digital pentr
 </p>
 <br />
 <p align="center">
-    <img src="https://i.imgur.com/052ysYA.jpg" width="200" height="400"/>
-    <img src="https://i.imgur.com/o9tSHAc.jpg" width="200" height="400"/>
+    <img src="https://i.imgur.com/sjlB04B.jpg" width="200" height="400"/>
+    <img src="https://i.imgur.com/QLzzVdX.jpg" width="200" height="400"/>
+    <img src="https://i.imgur.com/ZViD2Wt.jpg" height="400"/>
 </p>
 <br />
 <p align="center">
