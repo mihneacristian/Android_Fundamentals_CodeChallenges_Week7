@@ -2,9 +2,7 @@
 Android Fundamentals - Code Challenges (Week 7) - Google Atelierul Digital pentru Programatori
 <br />
 <p align="center">
-    <img src="https://i.imgur.com/2mgq3PU.jpg" width="200" height="400"/>
-    <img src="https://i.imgur.com/RwEx1Ku.jpg" width="200" height="400"/>
-    <img src="https://i.imgur.com/8udkEPq.jpg" width="200" height="400"/>
+    <img src="https://i.imgur.com/0dWN03d.jpg" width="200" height="400"/>
 </p>
 <br />
 <p align="center">
